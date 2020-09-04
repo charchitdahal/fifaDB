@@ -8,7 +8,7 @@ A Database for FIFA 21 Players
 
 ## Features added
 
-###9/3 update
+### 9/3 update
 1) Nav Bar
 2) Populate Player Name in Homepage w/links to individual page
 
