@@ -1,6 +1,12 @@
 # fifaDB
 A Database for FIFA 21 Players
 
+## Usage
+
+### `npm install bootstrap`
+### `npm install --save jsondata`
+### `gatsby develop`
+
 ## Updates
 
 1) added JSON to site functionality. (current)
